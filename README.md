@@ -1,6 +1,6 @@
 # SQL-WoW
 
-###Advance SQL Data Retrieval Techniques
+### Advanced SQL Data Retrieval Techniques
 
 1.  SQL To select count of total and different values in a same column, presented in a single row
 ```sql
